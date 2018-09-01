@@ -6,7 +6,8 @@ Our pitch was loved by the judging panel and we were rewarded for being the most
 
 We finished in 2nd place against all the other competitive teams with industry problems and we were granted $4000 AUD for our prize.
 
-From left to right:
+You can test our minimum viable product (MVP) at this [link](http://hack.mynemmajeff.club)
+## From left to right:
 - [Daniel Dao](https://github.com/DanDanDao)
 - [Blaise Saunders](https://github.com/DavidoRotho)
 - Me
