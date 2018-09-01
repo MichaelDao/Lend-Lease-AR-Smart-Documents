@@ -1,10 +1,10 @@
 # [ThingWorx IoT + AR Hackathon 2018](http://www.thingworxhacks.com/rmit/)
 
-We were tasked with developing an innovative solution for a [LendLease](https://www.lendlease.com/au/) problem with "Leveraginging knowledge" 
+We were tasked with developing an innovative solution for a [LendLease](https://www.lendlease.com/au/) problem with "Leveraging knowledge" 
 
 Our pitch was loved by the judging panel and we were rewarded for being the most innovative solution by [Hendry](https://www.hendry.com.au/).
 
-Our solution earned us the second place in this hackathon as we were competing against many different industry problems to produce the best IoT/AR technology.
+We finished in 2nd place against all the other competitive teams with industry problems and we were granted $4000 AUD for our prize.
 
 From left to right:
 - [Daniel Dao](https://github.com/DanDanDao)
