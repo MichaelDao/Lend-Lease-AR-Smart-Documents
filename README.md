@@ -1,6 +1,6 @@
 # [ThingWorx IoT + AR Hackathon 2018](http://www.thingworxhacks.com/rmit/)
 
-We were tasked with developing an innovative solution for a [LendLease](https://www.lendlease.com/au/) problem with "Leveraging knowledge" 
+Our team developed a smart document manager to help [LendLease](https://www.lendlease.com/au/) employees solve a problem surrounding the leveraging of knowledge with “Augmented Reality”.
 
 Our pitch was loved by the judging panel and we were rewarded for being the most innovative solution by [Hendry](https://www.hendry.com.au/).
 
